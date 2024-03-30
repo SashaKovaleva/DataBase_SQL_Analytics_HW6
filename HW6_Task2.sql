@@ -16,7 +16,7 @@ BEGIN
 
     RETURN result_str;
 
-END$$
+END $$
 DELIMITER;
 
 SELECT even_num() AS 'Четные числа';
