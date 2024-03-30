@@ -29,5 +29,5 @@ BEGIN
 
     RETURN result_str;
 
-END$$
+END $$
 DELIMITER;
