@@ -19,4 +19,4 @@ BEGIN
 END $$
 DELIMITER;
 
-SELECT even_num() AS 'Четные числа';
+SELECT even_num() AS 'Чётные числа';
